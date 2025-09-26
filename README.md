@@ -33,7 +33,7 @@ Create main analysis table `kf_tabel_analisa` dengan kalkulasi:
 - Rating Analysis: Branch vs Transaction ratings
 
 ## Author
-[Naangz] - Rakamin Academy Big Data Analytics Intern
+[[Naangz](https://github.com/Naangz)] - Rakamin Academy Big Data Analytics Intern
 
 ## Link Dashboard
 [[Looker Studio Dashboard URL](https://lookerstudio.google.com/reporting/8a4ff1ca-675f-4a05-8de7-131b1c1673c4)]
